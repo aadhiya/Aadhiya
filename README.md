@@ -36,7 +36,8 @@ Boosted API throughput 30%, organic traffic 120% as Full-Stack Developer​
 
 Co-authored IEEE paper; increased dept research output 50%​
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=aadhiya&show_icons=true&theme=radical3]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/aadhiya&layout=compact&theme3]
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=aadhiya&show_icons=true&theme=radical)](https://github.com/aadhiya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhiya&layout=compact&theme=radical)](https://github.com/aadhiya)
+
 
 Connect: LinkedIn | Email | 📱 +974 33293192 ​
