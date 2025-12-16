@@ -41,6 +41,6 @@ Co-authored IEEE paper; increased dept research output 50%​
 
 ### 🧠 Teaching, Research & Experimentation
 
-I love teaching and mentoring, and I’m equally passionate about researching and continuously learning new things in AI—constantly experimenting with agents, workflows, and real-world education use cases.[web:5][file:37]
+I love teaching and mentoring, and I’m equally passionate about researching and continuously learning new things in AI—constantly experimenting with agents, workflows, and real-world education use cases.
 
 Connect: LinkedIn | Email | 📱 +974 33293192 ​
